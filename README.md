@@ -146,7 +146,7 @@ Enter the Amount to be Withdrawn twice : 3000
 3000
 ---Please Collect the Cash---Visit again------
 ```
-## Task 3.3 : Transfer Money :
+# Task 3.3 : Transfer Money :
 ```
 Basic Criteria for Transfer are the customer should be alerted when any of the criteria is met.
 
